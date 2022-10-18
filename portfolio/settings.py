@@ -14,7 +14,7 @@ from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-SERVER_1 = '192.168.15.0'
+SERVER_1 = '192.168.7.155'
 
 
 # Quick-start development settings - unsuitable for production
